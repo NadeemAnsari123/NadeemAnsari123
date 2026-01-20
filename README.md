@@ -7,4 +7,5 @@ I have strong hands-on experience with AWS core services, Infrastructure as Code
 I continuously work on enhancing my skills in CI/CD pipelines, cloud security, monitoring, and scalable system architectures.
 Currently, I am working at TI Infotech, where I contribute to building and supporting cloud-based and DevOps-oriented solutions.
 
-**My Github Repository**
+<h2>My Github Repository</h2>
+https://github.com/NadeemAnsari123/Creating-EC2-Instance-using-Terraform
