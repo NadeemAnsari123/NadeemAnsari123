@@ -12,14 +12,15 @@ Currently, I am working at TI Infotech, where I contribute to building and suppo
 https://github.com/NadeemAnsari123/Creating-EC2-Instance-using-Terraform
 
 <h2>👨‍💻 About Me</h2>
-🚀 I am a Cloud & DevOps enthusiast with strong hands-on experience in AWS.
-Currently, I am working on real-world AWS & DevOps projects, focusing on scalable cloud architecture, automation, and security best practices.
-☁️ I have practical exposure to core AWS services and enjoy building infrastructure using Infrastructure as Code (Terraform).
-🔐 Along with cloud, I also work extensively on IAM solutions to manage user access, policies, and identity lifecycle.
-⚙️ I believe in automation-first approaches and continuously upskill myself in CI/CD pipelines and cloud security.
+🚀 I am a Cloud & DevOps enthusiast with strong hands-on experience in AWS.<br>
+Currently, I am working on real-world AWS & DevOps projects, focusing on scalable cloud architecture, automation, and security best practices.<br>
+☁️ I have practical exposure to core AWS services and enjoy building infrastructure using Infrastructure as Code (Terraform).<br>
+🔐 Along with cloud, I also work extensively on IAM solutions to manage user access, policies, and identity lifecycle.<br>
+⚙️ I believe in automation-first approaches and continuously upskill myself in CI/CD pipelines and cloud security.<br>
 💼 Currently working at Ti Infotech Solutions Private Limited, where I contribute to cloud. <br>
+
 <h2>🛠️ Skills & Technologies</h2>
-<h3>☁️ Cloud – AWS</h3
+<h2>☁️ Cloud – AWS</h2>
 •	EC2, VPC, ALB, NLB, Auto Scaling <br>
 •	S3, RDS, DynamoDB <br>
 •	IAM, Route 53, CloudFront <br>
