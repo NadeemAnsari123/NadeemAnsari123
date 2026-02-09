@@ -10,7 +10,7 @@ Currently, I am working at TI Infotech, where I contribute to building and suppo
 
 <h2>My Github Repository</h2>
 https://github.com/NadeemAnsari123/Creating-EC2-Instance-using-Terraform <br>
-https://github.com/NadeemAnsari123/Hosted-Static-Website-Using-Terraform/tree/main<br>
+https://github.com/NadeemAnsari123/Hosted-Static-Website-Using-Terraform<br>
 https://github.com/NadeemAnsari123/Created-Aws-Load-Balancer<br>
 https://github.com/NadeemAnsari123/aws-iam-roles<br>
 https://github.com/NadeemAnsari123/Linux-important-command
